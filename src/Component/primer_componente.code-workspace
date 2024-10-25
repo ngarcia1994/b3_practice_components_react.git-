@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../segundo_componente"
+		},
+		{
+			"path": "../tercer_component"
+		},
+		{
+			"path": "../cuarto_component"
+		},
+		{
+			"path": "../Carrusel"
+		},
+		{
+			"path": "../../component"
+		}
+	],
+	"settings": {}
+}
